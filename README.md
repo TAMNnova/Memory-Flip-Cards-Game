@@ -9,6 +9,25 @@ Memory Flip Card Game made with Unity and C#
 - DOTween animations
 - Simple UI
 
+## Screenshots
+
+### Home Screen
+![Home Screen](Screenshots/home.png)
+
+### Gameplay
+![Gameplay](Screenshots/gameplay.png)
+
+### Game Pause
+![Game Over](Screenshots/pauseScreen.png)
+
+### Game Over
+![Game Over](Screenshots/gameOver.png)
+
+### Game Complete
+![Game Over](Screenshots/gameComplete.png)
+
+
+
 ## Credits
 Card Images:
 - https://www.freepik.com

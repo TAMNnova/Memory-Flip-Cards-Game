@@ -163,7 +163,7 @@ IEnumerator FlippAllCardsRoutine()
             if (success)
             {
                 gameOverText.SetText("Great Job");
-                btnGameOverText.SetText("Play");
+                btnGameOverText.SetText("Play Again");
             
             }
             else
